@@ -2,14 +2,23 @@ body {
     background-color:lightblue
 }
 h1{
-    color:black ;
+    font: size 7px;
+    color:aquamarine ;
     font-family:Georgia;
 }
 h2{
-    color:black;
+    font: size 6px;
+    color:white;
     font-family:Verdana;    
 }
 p{
-    color:black;
+    font: size 4px;
+    color:darkcyan;
     font-family:Tahoma;      
 }
+a{
+    font: size 4px;
+    color:blue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
